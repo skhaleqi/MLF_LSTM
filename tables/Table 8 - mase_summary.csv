@@ -1,0 +1,4 @@
+Activation,Avg MASE (FLF),Avg MASE (MLF),Avg Improvement (%)
+tanh,89.54,3.01,96.6%
+relu,555.14,16.51,97.0%
+sigmoid,106.90,74.61,30.2%

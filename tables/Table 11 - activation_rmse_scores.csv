@@ -1,0 +1,13 @@
+Activation Function,Metric,FLF-RMSE,MLF-RMSE,Improvement (%)
+tanh,Open,0.1601,0.0259,83.82
+tanh,High,0.1178,0.0257,78.20
+tanh,Low,0.0917,0.0259,71.78
+tanh,Close,0.0745,0.0259,65.23
+relu,Open,0.6598,0.0347,94.75
+relu,High,0.6683,0.0351,94.75
+relu,Low,0.7178,0.0344,95.20
+relu,Close,0.6314,0.0334,94.72
+sigmoid,Open,0.1115,0.1146,-2.82
+sigmoid,High,0.1438,0.1164,19.08
+sigmoid,Low,0.1436,0.1115,22.40
+sigmoid,Close,0.1404,0.1213,15.77

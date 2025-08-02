@@ -1,0 +1,4 @@
+Activation,Avg MAE (FLF),Avg MAE (MLF),Avg Improvement (%)
+tanh,0.1077,0.0045,95.8
+relu,0.6671,0.0223,96.7
+sigmoid,0.1283,0.1008,21.7

@@ -1,0 +1,4 @@
+Activation,Avg sMAPE (FLF),Avg sMAPE (MLF),Avg Improvement (%)
+tanh,11.59,0.44,96.2%
+relu,95.68,2.20,97.7%
+sigmoid,11.76,9.12,22.5%
